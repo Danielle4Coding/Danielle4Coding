@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+### My name is Danielle, I have spent 45 years on this planet
 - 🔭 I’m currently working on ...
  - [ ] understanding github 🤣
 - 🌱 I’m currently learning ...
