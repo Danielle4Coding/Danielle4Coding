@@ -5,13 +5,15 @@
 ### Coding!
 - 🔭 I’m currently working on ...
  - [ ] my cv project
- - [ ] brainstorming for the final project of the bootcamp
+ - [x] brainstorming for the final project of the bootcamp
 - 🌱 I’m currently learning ...
- - [x] markdown basics
- - [x] terminal basics
- - [x] html basics
- - [ ] css flexbox
- - [ ] java script
+ - [ ] markdown basics
+ - [ ] terminal basics
+ - [ ] html basics
+ - [ ] css
+ - [ ] sql
+ - [x] java script
+ - [x] event listeners
 - 👯 I’m looking to collaborate on ... (web) apps in the fields of education, community building, linguistics ... 
 - 📫 How to reach me: daniellecoding on discord.
 - 😄 Pronouns: she, her
